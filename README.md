@@ -10,14 +10,14 @@ LMS is a comprehensive web-based platform designed to manage, deliver, and track
 
 📸 Screenshots
 # 📸 Screenshots
-![Screenshot 1](https://github.com/arafatnahid/Learning-Management-System/blob/main/images/Screenshot_1329.png)
+![Screenshot 1](https://github.com/arafatnahid/Learning-Management-System/blob/main/img/Screenshot_1329.png)
 
-![Screenshot 2](https://github.com/arafatnahid/Learning-Management-System/blob/main/images/Screenshot_1327.png)
+![Screenshot 2](https://github.com/arafatnahid/Learning-Management-System/blob/main/img/Screenshot_1327.png)
 
-![Screenshot 3](https://github.com/arafatnahid/Learning-Management-System/blob/main/images/Screenshot_1328.png)
-![Screenshot 4](https://github.com/arafatnahid/Learning-Management-System/blob/main/images/Screenshot_1330.png)
-![Screenshot 5](https://github.com/arafatnahid/Learning-Management-System/blob/main/images/Screenshot_1331.png)
-![Screenshot 6](https://github.com/arafatnahid/Learning-Management-System/blob/main/images/Screenshot_1332.png)
+![Screenshot 3](https://github.com/arafatnahid/Learning-Management-System/blob/main/img/Screenshot_1328.png)
+![Screenshot 4](https://github.com/arafatnahid/Learning-Management-System/blob/main/img/Screenshot_1330.png)
+![Screenshot 5](https://github.com/arafatnahid/Learning-Management-System/blob/main/img/Screenshot_1331.png)
+![Screenshot 6](https://github.com/arafatnahid/Learning-Management-System/blob/main/img/Screenshot_1332.png)
 
 
 
@@ -76,5 +76,6 @@ php artisan migrate
 Start the development server
 
 php artisan serve
+
 
 
