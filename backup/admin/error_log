@@ -1,0 +1,21 @@
+[13-May-2024 17:49:41 UTC] PHP Fatal error:  During inheritance of IteratorAggregate: Uncaught ArgumentCountError: Too few arguments to function default_error_handler(), 4 passed in /home/araflgpe/arafatnahid.shop/lms/lib/navigationlib.php on line 897 and exactly 5 expected in /home/araflgpe/arafatnahid.shop/lms/lib/setuplib.php:425
+Stack trace:
+#0 /home/araflgpe/arafatnahid.shop/lms/lib/navigationlib.php(897): default_error_handler()
+#1 /home/araflgpe/arafatnahid.shop/lms/lib/setup.php(604): require_once('/home/araflgpe/...')
+#2 /home/araflgpe/arafatnahid.shop/lms/config.php(27): require_once('/home/araflgpe/...')
+#3 /home/araflgpe/arafatnahid.shop/lms/admin/index.php(88): require('/home/araflgpe/...')
+#4 {main} in /home/araflgpe/arafatnahid.shop/lms/lib/navigationlib.php on line 897
+[13-May-2024 17:49:44 UTC] PHP Fatal error:  During inheritance of IteratorAggregate: Uncaught ArgumentCountError: Too few arguments to function default_error_handler(), 4 passed in /home/araflgpe/arafatnahid.shop/lms/lib/navigationlib.php on line 897 and exactly 5 expected in /home/araflgpe/arafatnahid.shop/lms/lib/setuplib.php:425
+Stack trace:
+#0 /home/araflgpe/arafatnahid.shop/lms/lib/navigationlib.php(897): default_error_handler()
+#1 /home/araflgpe/arafatnahid.shop/lms/lib/setup.php(604): require_once('/home/araflgpe/...')
+#2 /home/araflgpe/arafatnahid.shop/lms/config.php(27): require_once('/home/araflgpe/...')
+#3 /home/araflgpe/arafatnahid.shop/lms/admin/index.php(88): require('/home/araflgpe/...')
+#4 {main} in /home/araflgpe/arafatnahid.shop/lms/lib/navigationlib.php on line 897
+[13-May-2024 17:49:47 UTC] PHP Fatal error:  During inheritance of IteratorAggregate: Uncaught ArgumentCountError: Too few arguments to function default_error_handler(), 4 passed in /home/araflgpe/arafatnahid.shop/lms/lib/navigationlib.php on line 897 and exactly 5 expected in /home/araflgpe/arafatnahid.shop/lms/lib/setuplib.php:425
+Stack trace:
+#0 /home/araflgpe/arafatnahid.shop/lms/lib/navigationlib.php(897): default_error_handler()
+#1 /home/araflgpe/arafatnahid.shop/lms/lib/setup.php(604): require_once('/home/araflgpe/...')
+#2 /home/araflgpe/arafatnahid.shop/lms/config.php(27): require_once('/home/araflgpe/...')
+#3 /home/araflgpe/arafatnahid.shop/lms/admin/index.php(88): require('/home/araflgpe/...')
+#4 {main} in /home/araflgpe/arafatnahid.shop/lms/lib/navigationlib.php on line 897

@@ -1,0 +1,3 @@
+[31-Jan-2025 14:00:03 UTC] Resetting core_component cache after core upgrade to version 2020061524
+[14-Apr-2025 01:55:02 UTC] PHP Warning:  include(/home/araflgpe/moodledata/cache/core_component.php): failed to open stream: No such file or directory in /home/araflgpe/public_html/edtech/lib/classes/component.php on line 277
+[14-Apr-2025 01:55:02 UTC] PHP Warning:  include(): Failed opening '/home/araflgpe/moodledata/cache/core_component.php' for inclusion (include_path='/home/araflgpe/public_html/edtech/lib/pear:.:/opt/alt/php74/usr/share/pear') in /home/araflgpe/public_html/edtech/lib/classes/component.php on line 277
